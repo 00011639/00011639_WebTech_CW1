@@ -7,3 +7,6 @@ The aim of the project is that anyone who has registered the Scoot App could fin
 The website however, was made for giving full information about the Scoot App. On this website, people read about how to find the nearest available scooter, how much charge it has left and how much it will cost. While visiting the website, they will understand how to unlock the scooter, what kind of purposes scooters should be used for and of course, people can read why it is useful for them to travel by scooters. Users can also easily open the site and find answers to their common questions.
 
 To sum up, this responsive website consists of two html (home and about) pages, two css (main and main min) and with script js. During writing the codes, there were also used fonts and images. There were not used ready templates, libraries to make the website dynamic and developing the website took roughly 4 days.
+
+
+The link to the website: https://scoot11639.netlify.app/ 
