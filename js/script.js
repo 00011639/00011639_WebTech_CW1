@@ -39,4 +39,3 @@ FAQsButton_fifth.addEventListener("click", function() {
 FAQsButton_sixth.addEventListener("click", function() {
 	FAQsButton_sixth.classList.toggle("faqs__button--active");
 });
-
