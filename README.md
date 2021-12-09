@@ -12,4 +12,4 @@ To sum up, this responsive website consists of html pages, css and script js. Du
 
 The link to the website: https://scoot11639.netlify.app/
 
-PS: First, I wanted to develop only "home" and "about" html pages then decided to add again simple "faq" and "contact us" html pages.
+The link to the GitHub repository: https://github.com/00011639/00011639_WebTech_CW1.git 
